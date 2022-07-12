@@ -64,5 +64,3 @@ ooooo  oooo ooooooo  ooooo  oooo
    o888o    88ooo88    888oo88   
 
   "
-
-ls
